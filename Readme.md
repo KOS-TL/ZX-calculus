@@ -48,3 +48,8 @@
 - **Hypotheses** 窗格：已有的假设和局部变量
 
 建议在 `Core/ConcatAlgebra.v` 的 `ft_cat_nil_r` 证明中逐步执行，观察归纳步骤如何消解 `(n+0)` 与 `n` 的类型不匹配问题。再在 `Semantics/TraceCategory.v` 的 `trace_antisym` 中看 `lia` 如何用线性算术自动完成长度论证。
+
+该代码对应的论文为：ZX-Calculus:Trace-Indexed Dependent Types and Epistemic Semantics
+
+arXiv:2606.03063
+
