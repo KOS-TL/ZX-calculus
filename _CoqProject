@@ -1,0 +1,21 @@
+-R theories ZXCalculus
+
+theories/Core/Syntax.v
+theories/Core/Traces.v
+theories/Core/TraceElim.v
+theories/Core/ConcatAlgebra.v
+theories/Core/Reachability.v
+theories/Core/Replay.v
+theories/Core/Canonicity.v
+theories/Semantics/TraceCategory.v
+theories/Semantics/Presheaf.v
+theories/Semantics/Separation.v
+theories/Semantics/CwF.v
+theories/AGM/BeliefSets.v
+theories/AGM/Contraction.v
+theories/AGM/Revision.v
+theories/AGM/AGMPostulates.v
+theories/AGM/ConjunctiveEntailment.v
+theories/Integration/SSRS.v
+theories/Integration/Coherence.v
+theories/ZXCalculus.v
